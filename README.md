@@ -17,7 +17,7 @@ Your users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](#)
+- Live Site URL: [Live Site](https://caminaur.github.io/Testimonials-grid-section/)
 - Solution Repository: [Github](https://github.com/Caminaur)
 
 ## My Process
@@ -28,12 +28,6 @@ Your users should be able to:
 - CSS custom properties
 - Flexbox / CSS Grid
 
-### What I Learned
-
-In this project, I reviewed layout design and responsiveness.
-I focused on structuring content in a flexible way that adapts to different screen sizes
-I also practiced using CSS properties and layout techniques to keep the code clean and easy to maintain.
-
 ### Continued Development
 
 In future projects, I want to focus on accessibility best practices and improving how I structure CSS for scalability.
@@ -41,7 +35,6 @@ In future projects, I want to focus on accessibility best practices and improvin
 ### Useful Resources
 
 - [CSS Grid Guide by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-- [Frontend Mentor Slack Community](https://www.frontendmentor.io/community)
 
 ## Author
 
@@ -49,7 +42,3 @@ In future projects, I want to focus on accessibility best practices and improvin
 - [Frontend Mentor](https://www.frontendmentor.io/profile/Caminaur)
 - [CSS Battle](https://cssbattle.dev/player/caminaur)
 - [Exercism](https://exercism.org/profiles/Caminaur)
-
-## Acknowledgments
-
-Thanks to the Frontend Mentor Slack community for their support and feedback
