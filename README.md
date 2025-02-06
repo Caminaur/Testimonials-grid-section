@@ -18,7 +18,7 @@ Your users should be able to:
 ### Links
 
 - Live Site URL: [Live Site](https://caminaur.github.io/Testimonials-grid-section/)
-- Solution Repository: [Github](https://github.com/Caminaur)
+- Solution Repository: [Github](https://github.com/Caminaur/Testimonials-grid-section)
 
 ## My Process
 
@@ -42,3 +42,4 @@ In future projects, I want to focus on accessibility best practices and improvin
 - [Frontend Mentor](https://www.frontendmentor.io/profile/Caminaur)
 - [CSS Battle](https://cssbattle.dev/player/caminaur)
 - [Exercism](https://exercism.org/profiles/Caminaur)
+- [Github](https://github.com/Caminaur)
